@@ -13,10 +13,10 @@ from datetime import datetime
 # ==================== CONFIG ====================
 API_ID = 35384207
 API_HASH = "09c4bc9de62a417ccdd0c69b33912515"
-BOT_TOKEN = "8686015621:AAFSJBgKI9Bafz0ryiwnkdyTmH3YbMYTeJ8"
+BOT_TOKEN = "8753428643:AAETIb9bl4JZ7UZ-7A42PY4MmyZ35ePHp80"
 
 # API URL
-API_URL = "https://stripe-charge-4340.onrender.com"
+API_URL = "https://stripe-charge-6.onrender.com"
 
 client = TelegramClient('veroz_bot', API_ID, API_HASH)
 
